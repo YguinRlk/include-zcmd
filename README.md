@@ -1,2 +1,2 @@
-# include-zcmd
-include-zcmd
+# Self Programmers
+https://discord.gg/uVbcHRE45x
